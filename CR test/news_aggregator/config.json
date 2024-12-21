@@ -1,0 +1,16 @@
+{
+    "sources": {
+      "reuters": {
+        "rss_url": "https://www.rss.reuters.com/news",
+        "selectors": {
+          "title": "h1.article-header__title",
+          "content": "div.article-body__content",
+          "author": "a.author-name"
+        }
+      }
+    },
+    "topics": [
+      "artificial intelligence",
+      "climate change"
+    ]
+  }

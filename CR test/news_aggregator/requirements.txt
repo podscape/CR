@@ -1,0 +1,5 @@
+requests>=2.26.0
+beautifulsoup4>=4.9.3
+numpy>=1.19.5
+feedparser>=6.0.0
+fake-useragent>=0.1.11
